@@ -13,4 +13,4 @@ Pedi para o ChatGPT a criação de um roteiro e o Eleven Labs para
 gerar o Podcast explicando os pontos fortes das tecnologias citadas.
 
 ## 🚀 Resultados
-Ouça o [PODCAST](ElevenLabs_2024-07-14T15_58_54_Rachel_pre_s50_sb75_se0_b_m2 (1).mp3)
+Ouça o [PODCAST](ElevenLabs_2024-07-14T15_58_54_Rachel_pre_s50_sb75_se0_b_m2.mp3)
